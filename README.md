@@ -13,7 +13,7 @@ La actividad ha sido realizada de manera individual por Lucas de Torre Barrio.
 ## Documentos
 
 ### Código fuente
-  Se encuentra en web_scraping.py
+  Se encuentra en PRA2_ldetorre.ipynb
 ### Memoria
   Se encuentra en PRA2_ldetorre_UOC.pdf, aunque se recomienda ver en https://htmlpreview.github.io/?https://github.com/ldetorreUOC/Practica2-Limpieza-analisis/blob/main/PRA2_ldetorre_UOC.html (que permite visualizar el html de PRA2_ldetorre_UOC.html)
 ### Datasets
