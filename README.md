@@ -19,4 +19,4 @@ La actividad ha sido realizada de manera individual por Lucas de Torre Barrio.
 ### Datasets
   El dataset original se encuentra en winequality-red.csv (ha sido extraído de https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009), mientras que el dataset modificado está en winequality-red-mod.csv  
 ### Vídeo
-  Se encuentra en presentación_limpieza_analisis.mp4
+  Se encuentra en video_practica.mp4
